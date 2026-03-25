@@ -9,13 +9,13 @@
 - 开发工具：Visual Studio 2022
 
 ## 功能模块
-- 患者信息管理、登录
+- 信息管理、登录
 
 
 ## 运行方式
 1. 使用 Visual Studio 打开 `Patient System.sln`
-2. 配置数据库连接字符串
-3. 启动项目即可运行 API 服务
+2. 在文件appsetttings.json中配置数据库连接字符串
+3. 启动项目即可运行 API 服务，使用http
 
 ## 项目结构
 - Controllers：API 接口控制器

@@ -1,5 +1,5 @@
 # Patient System
-简单系统（ASP.NET Core Web API）
+简单系统（ASP.NET Core Web API）.net8.0开发
 
 ## 项目简介
 基于 ASP.NET Core 开发的超级简单系统
